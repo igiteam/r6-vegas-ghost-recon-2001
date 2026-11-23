@@ -1,22 +1,19 @@
-# r6-vegas-kill-switch-2004
+# r6-vegas-ghost-recon-2001
 ## Rainbow Six Vegas - Kill.Switch Remake
-A total conversion project that rebuilds the cover-based, third-person shooter Kill.Switch (2003) inside the tactical first-person engine and look of Tom Clancy's Rainbow Six Vegas (2006).
-
+A total conversion project that rebuilds the tactical squad-based shooter Ghost Recon (2001) inside the tactical first-person engine and look of Tom Clancy's Rainbow Six Vegas (2006).
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/r6-vegas-kill-switch-2004](https://treegit.macosxjs.com/?url=igiteam/r6-vegas-kill-switch-2004)
+[https://treegit.macosxjs.com/?url=igiteam/r6-vegas-ghost-recon-2001](https://treegit.macosxjs.com/?url=igiteam/r6-vegas-ghost-recon-2001)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/r6-vegas-kill-switch-2004/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/r6-vegas-kill-switch-2004/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/r6-vegas-ghost-recon-2001/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/r6-vegas-ghost-recon-2001/git/trees/main?recursive=1)
 
 ## Base of the gameplay
 [![Tom Clancy's Rainbow Six Vegas](https://img.youtube.com/vi/gbvAkRKv0eU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2J2QWtSS3YwZVU)
 
-[![Kill.Switch - Gameplay PS2 HD 720P](https://img.youtube.com/vi/TyIXe1PM6gk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?VHlJWGUxUE02Z2s)
+[![Ghost recon 2001 first person mod](https://img.youtube.com/vi/bFcmdTq9Feo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YkZjbWRUcTlGZW8)
 
-[![Kill Switch 2003](https://img.youtube.com/vi/WxkeGDbrY4Q/maxresdefault.jpg)](https://ytembed.macosxjs.com/?V3hrZUdEYnJZNFE)
-
-[![Unreal Engine 3 Tutorials](https://i.ytimg.com/vi/XpJs_hyEvPQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDArqtx6PTddNYEEC4xPveUT7Ng9A)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjFWb0B0dfEO_vb9Fw7zmJzG)
+[![Tom Clancy's Ghost Recon 2001](https://img.youtube.com/vi/LUfRrXoQtFk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TFVmUnJYb1F0Rms)
 
 ---
 
@@ -34,11 +31,9 @@ A total conversion project that rebuilds the cover-based, third-person shooter K
 
 [https://archive.org/download/tomclancys-pc-redump/TOMCLANCYS-PC-REDUMP/Tom%20Clancy%27s%20Ghost%20Recon%20%28USA%29.zip](https://archive.org/download/tomclancys-pc-redump/TOMCLANCYS-PC-REDUMP/Tom%20Clancy%27s%20Ghost%20Recon%20%28USA%29.zip)
 
-[![Tom Clancy's Rainbow Six Vegas](https://raw.githubusercontent.com/igiteam/r6-vegas-kill-switch-2004/refs/heads/main/Tom-Clancys-Rainbow-Six-Vegas.png)](https://archive.org/details/tom-clancys-rainbow-six-vegas_202403)
+[![Tom Clancy's Rainbow Six Vegas](https://raw.githubusercontent.com/igiteam/r6-vegas-ghost-recon-2001/refs/heads/main/Tom-Clancys-Rainbow-Six-Vegas.png)](https://archive.org/details/tom-clancys-rainbow-six-vegas_202403)
 
-[![Kill.Switch](https://raw.githubusercontent.com/igiteam/r6-vegas-kill-switch-2004/refs/heads/main/Kill.switch_Coverart.jpg)](https://archive.org/details/kill-switch-win-en)
-
-[https://archive.org/download/tomclancys-pc-redump/TOMCLANCYS-PC-REDUMP/Tom%20Clancy%27s%20Ghost%20Recon%20%28USA%29.zip](https://archive.org/download/tomclancys-pc-redump/TOMCLANCYS-PC-REDUMP/Tom%20Clancy%27s%20Ghost%20Recon%20%28USA%29.zip)
+[![Tom Clancy's GHost Recon 2001](https://raw.githubusercontent.com/igiteam/r6-vegas-ghost-recon-2001/refs/heads/main/Tom_Clancy's_Ghost_Recon_2001.jpg)](https://archive.org/download/tomclancys-pc-redump/TOMCLANCYS-PC-REDUMP/Tom%20Clancy%27s%20Ghost%20Recon%20%28USA%29.zip)
 
 
 ## Dev Environment
