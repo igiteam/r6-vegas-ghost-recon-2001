@@ -11,7 +11,7 @@ A total conversion project that rebuilds the tactical squad-based shooter Ghost 
 ## Base of the gameplay
 [![Tom Clancy's Rainbow Six Vegas](https://img.youtube.com/vi/gbvAkRKv0eU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2J2QWtSS3YwZVU)
 
-[![Ghost recon 2001 first person mod](https://img.youtube.com/vi/bFcmdTq9Feo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?YkZjbWRUcTlGZW8)
+[![Ghost recon 2001 first person mod](https://img.youtube.com/vi/bFcmdTq9Feo/hqdefault.jpg)](https://ytembed.macosxjs.com/?YkZjbWRUcTlGZW8)
 
 [![Tom Clancy's Ghost Recon 2001](https://img.youtube.com/vi/LUfRrXoQtFk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TFVmUnJYb1F0Rms)
 
