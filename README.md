@@ -1,5 +1,5 @@
 # r6-vegas-ghost-recon-2001
-## Rainbow Six Vegas - Kill.Switch Remake
+## Rainbow Six Vegas - Ghost Recon 2001 Remake
 A total conversion project that rebuilds the tactical squad-based shooter Ghost Recon (2001) inside the tactical first-person engine and look of Tom Clancy's Rainbow Six Vegas (2006).
 
 ## Github Treeview
